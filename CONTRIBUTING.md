@@ -19,7 +19,7 @@ If you plan to add some new features that involve large changes, it is encourage
 
 ### Code style
 
-We use [pre-commit hook](https://pre-commit.com/) that checks and formats the code for automatically on every commit.
+We use [pre-commit hook](https://pre-commit.com/) that checks and formats the code automatically on every commit.
 The config for a pre-commit hook is stored in [.pre-commit-config](./.pre-commit-config.yaml).
 
 After you clone the repository, you will need to install pre-commit and initialize the pre-commit hook.
